@@ -1,0 +1,22 @@
+# CloudStream migration output
+CloudStreamMigration/
+
+# CloudStream backups and generated reports
+*.txt
+*.csv
+*.json
+*.bak
+*.backup
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Logs / temporary files
+*.log
+*.tmp
+
+# OS metadata
+Thumbs.db
+.DS_Store
